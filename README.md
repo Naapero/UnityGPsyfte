@@ -79,4 +79,13 @@ Här är 5 3D GUI beroende på hurudan tema man har på spelet.
 | [Ammo Display](https://www.youtube.com/watch?v=suEV612c7XU)                              | Mycket bra och simpel att följa med för att laga "ammo display".   |
 | [Brackeys Health bar](https://www.youtube.com/watch?v=BLfNP4Sc_iA)                       | En Health bar tutorial men av brackeys där han går mer "in-depth". |
 
-## unity shortcuts.
+## **Unity Tips & tricks**
+5 stycken "Tips & tricks" för unity
+
+| Youtube-Kanal&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Beskrivning                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [Brackeys](https://www.youtube.com/watch?v=yMqefz8XNC4)                         | Unity shortcuts.                        |
+| [Brackeys](https://www.youtube.com/watch?v=thA3zv0IoUM)                         | 100 Unity tips.                         |
+| [Omar Balfaqih](https://www.youtube.com/watch?v=wdZLI_CWCKE)                    | 7 Unity shortcuts.                      |
+| [OXMOND Tutorials](https://www.youtube.com/watch?v=yb-mXIDG7Zo)                 | Unity shortcuts för nybörjare.          |
+| [SpeedTutor](https://www.youtube.com/watch?v=c3EYpPyjplo)                       | Hur man gör egna shortcuts på Unity     |
