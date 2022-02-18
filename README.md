@@ -36,16 +36,31 @@ Här är 5 gratis ljudeffekter beroende vad för spel man håller på göra.
 | [Granatljud](https://assetstore.unity.com/packages/audio/sound-fx/grenade-sound-fx-147490)                | Har en massa granat och explosions ljud.                        |
 
 ## **2D GUI**
-Här är 5 gratis GUI beroende på hurudan tema man har på spelet.
+Här är 5 gratis 2D GUI beroende på hurudan tema man har på spelet.
 
-| Ljudeffekter&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Beskrivning                                                        |
+| 2D GUI&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Beskrivning                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| [2D Casual UI HD](https://assetstore.unity.com/packages/2d/gui/icons/2d-casual-ui-hd-82080)         | Knappar till nivåer, social medie och valutor                         |
-| [Sci-fi GUI skin](https://assetstore.unity.com/packages/2d/gui/sci-fi-gui-skin-15606)               | Sci-fi liknande knappar osv.                                   |
-| [Naturen](https://assetstore.unity.com/packages/audio/ambient/nature/nature-essentials-208227)            | Ljud från naturen från en massa olika platser.                  |
-| [Retroljud](https://assetstore.unity.com/packages/audio/sound-fx/retro-game-sfx-60365)                    | Några retrostil ljud.                                           |
-| [Granatljud](https://assetstore.unity.com/packages/audio/sound-fx/grenade-sound-fx-147490)                | Har en massa granat och explosions ljud.                        |
+| [2D Casual UI HD](https://assetstore.unity.com/packages/2d/gui/icons/2d-casual-ui-hd-82080)                | Knappar till nivåer, social medie och valutor                  |
+| [Sci-fi GUI skin](https://assetstore.unity.com/packages/2d/gui/sci-fi-gui-skin-15606)                      | Sci-fi liknande knappar osv.                                   |
+| [Animated loading icons](https://assetstore.unity.com/packages/2d/gui/icons/animated-loading-icons-47844)  | Flera olika animerade laddnings ikoner.                        |
+| [Pixel Cursors](https://assetstore.unity.com/packages/2d/gui/icons/pixel-cursors-109256)                   | En massa muspekare.                                            |
+| [Food Icons Packs](https://assetstore.unity.com/packages/2d/gui/icons/food-icons-pack-70018)               | Har en massa ikoner för mat.                                   |
 
+## **3D GUI**
+Här är 5 3D GUI beroende på hurudan tema man har på spelet.
+
+| GUI&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Beskrivning                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [Game 3d Icons *(7.14€)*](https://assetstore.unity.com/packages/3d/gui/game-3d-icons-194393)                                      | Flytande ikoner för 3d och bra optimiserade.                   |
+| [POLYGON icons pack *(8.92€)*](https://assetstore.unity.com/packages/3d/gui/polygon-icons-pack-low-poly-3d-art-by-synty-202117)   | Low poly 3D ikoner.                      |
+| [Audio UI *(13.39€)*](https://assetstore.unity.com/packages/3d/gui/audio-ui-icon-pack-3d-190956)                                  | Flera 3D ljud ikoner.                                          |
+| [Frozen Christmas *(8.92€)*](https://assetstore.unity.com/packages/3d/gui/frozen-christmas-ui-kit-hyper-casual-game-185602)       | En UI kit som har jul tema               |
+| [Modular 3D text](https://assetstore.unity.com/3d/gui?category=3d%2Fgui&orderBy=4)                                                | 3D text UI som är enkelt att ändra.                           |
+
+
+## unity shortcuts.
+## how to make first game.
+## HUD
 
 ### test 123
 
