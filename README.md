@@ -1,10 +1,21 @@
 ![Repository Banner](HeaderBild.png)
 # **Här får du resurser för att göra ett Unity spel.**
 
+## **Första spel**
+5 Videon på var och hur man kan börja laga sitt eget videospel.
+
+| Youtube-Kanal&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Beskrivning                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [Brackeys](https://www.youtube.com/watch?v=j48LtUkZRjU&list=PLPV2KyIb3jR53Jce9hP7G5xC4O9AgnOuL)           | En lista på flera olika videon om hur man gör saker.                    |
+| [Jonas Tyroller](https://www.youtube.com/watch?v=pCBqgREiSUE)                                             | En bra video som han går igenom en massa saker till 3D.                 |
+| [Thomas Brush](https://www.youtube.com/watch?v=-FIu9SGvQZc)                                               | Han går igenom 5 tips som är bra att veta till Indie spel.              |
+| [Coding in Flow](https://www.youtube.com/watch?v=n0GQL5JgJcY&list=PLrnPJCHvNZuB5ATsJZLKX3AW4V9XaIV9b)     | 10 videon som han går bra igenom för 3D spel.                           |
+| [Brackeys](https://www.youtube.com/watch?v=jE3ZJ_tCGTo)                                                   | Går igenom hur man gör ett FPS spel.                                    |
+
 ## **Menyer**
 Här är 5 meny tutorials som är enkla att följa. Väsentliga menyer som man kan ha i ett spel.
 
-| Video&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Beskrivning                                                        |
+| Videon&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Beskrivning                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | [Kredit meny](https://www.youtube.com/watch?v=cj6hwCjiVZE)                                                | En snabb och enkel tutorial på en skrollande kredit "scene"          |
 | [Start meny](https://www.youtube.com/watch?v=zc8ac_qUXQY)                                                 | Snabb start meny tutorial.                                           |
@@ -49,19 +60,23 @@ Här är 5 gratis 2D GUI beroende på hurudan tema man har på spelet.
 ## **3D GUI**
 Här är 5 3D GUI beroende på hurudan tema man har på spelet.
 
-| GUI&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Beskrivning                                                        |
+| 3D GUI&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Beskrivning                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| [Game 3d Icons *(7.14€)*](https://assetstore.unity.com/packages/3d/gui/game-3d-icons-194393)                                      | Flytande ikoner för 3d och bra optimiserade.                   |
-| [POLYGON icons pack *(8.92€)*](https://assetstore.unity.com/packages/3d/gui/polygon-icons-pack-low-poly-3d-art-by-synty-202117)   | Low poly 3D ikoner.                      |
-| [Audio UI *(13.39€)*](https://assetstore.unity.com/packages/3d/gui/audio-ui-icon-pack-3d-190956)                                  | Flera 3D ljud ikoner.                                          |
-| [Frozen Christmas *(8.92€)*](https://assetstore.unity.com/packages/3d/gui/frozen-christmas-ui-kit-hyper-casual-game-185602)       | En UI kit som har jul tema               |
-| [Modular 3D text](https://assetstore.unity.com/3d/gui?category=3d%2Fgui&orderBy=4)                                                | 3D text UI som är enkelt att ändra.                           |
+| [Game 3d Icons *(7.14€)*](https://assetstore.unity.com/packages/3d/gui/game-3d-icons-194393)                                      | Flytande ikoner för 3d och bra optimiserade.  |
+| [POLYGON icons pack *(8.92€)*](https://assetstore.unity.com/packages/3d/gui/polygon-icons-pack-low-poly-3d-art-by-synty-202117)   | Low poly 3D ikoner.                           |
+| [Audio UI *(13.39€)*](https://assetstore.unity.com/packages/3d/gui/audio-ui-icon-pack-3d-190956)                                  | Flera 3D ljud ikoner.                         |
+| [Frozen Christmas *(8.92€)*](https://assetstore.unity.com/packages/3d/gui/frozen-christmas-ui-kit-hyper-casual-game-185602)       | En UI kit som har jul tema                    |
+| [Modular 3D Text*(22.32€)*](https://assetstore.unity.com/3d/gui?category=3d%2Fgui&orderBy=4)                                      | 3D text UI som är enkelt att änvända.         |
 
+## **HUD**
+5 stycken videon hur man göra olika HUDs.
+
+| HUD&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Beskrivning                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [Crosshair](https://www.youtube.com/watch?v=lP8Y5eNg6oI)                                 | Snabb och simpel video på hur man gör ett crosshair.               |
+| [Health bar](https://www.youtube.com/watch?v=7cUzNi9dMl8)                                | Simpel video på hur man gör en health bar.                         |
+| [Avancerad Health Bar](https://www.youtube.com/watch?v=JGtU5sUyYUE)                      | En lite mer avancerad video på en health bar.                      |
+| [Ammo Display](https://www.youtube.com/watch?v=suEV612c7XU)                              | Mycket bra och simpel att följa med för att laga "ammo display".   |
+| [Brackeys Health bar](https://www.youtube.com/watch?v=BLfNP4Sc_iA)                       | En Health bar tutorial men av brackeys där han går mer "in-depth". |
 
 ## unity shortcuts.
-## how to make first game.
-## HUD
-
-### test 123
-
-#### test 123
